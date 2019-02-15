@@ -1,0 +1,11 @@
+What are the three most popular articles of all time?
+- Article: Candidate is jerk, alleges rival, Views: 338647
+- Article: Bears love berries, alleges bear, Views: 253801
+- Article: Bad things gone, say good people, Views: 170098
+Who are the most popular authors of all time?
+- Author: Ursula La Multa, Views: 507594
+- Author: Rudolf von Treppenwitz, Views: 423457
+- Author: Anonymous Contributor, Views: 170098
+- Author: Markoff Chaney, Views: 84557
+On what days did more than 1% of results end in failure?
+- Date: 2016-07-17, Percent: 2.26%
